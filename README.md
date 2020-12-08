@@ -1,2 +1,5 @@
 # Umojaempowerment
 Umoja Community-based Lending Initiative is designed for Women and aimed at empowering the local community by providing micro-loans at minimal interest. Umoja offers the unbanked means to access funding services that are not usually available to them from traditional lending institutions due to red tape. Low income earners and informal traders, mostly made up of women opt for un-regulated credit providers who charge interest rates as high as 50%.  Umoja, a Community-based Lending Initiative aims to be the bridge to safe credit service by providing micro-loans at minimal interest. Only groups of 3 – 5 individuals who know and trust each can apply for an Umoja loan. All group members are expected to hold each other responsible for the repayment of the loan. Umoja expects full repayment of the loan at the end of the loan period. Umoja loans are 30-day loans and the full loan amount and 10% interest rate are to be repaid. Group members are to select the person responsible for the collection and repayment of the loan.
+git clone the repository
+Run npm install
+Run node app.js
